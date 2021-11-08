@@ -23,7 +23,7 @@ Slash commands require the bot to have the administrator permission. This will b
 The rollout of slash commands is staggered, and we will not transfer all of the message commands. Here is the latest rollout plan:
 
 * [x] ~~Rollout 1: Slash commands are here! (Released 11/1/2021)~~
-* [ ] Rollout 2: There's more! (To be released 11/11/2021)
+* [ ] Rollout 2: There's more! (To be released 11/14/2021)
 * [ ] Rollout 3: Almost done! (To be released 11/25-30/2021)
 * [ ] Rollout 4: Happy holidays: slash commands complete! (To be released 12/25/2021)
 
