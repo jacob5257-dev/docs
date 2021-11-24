@@ -15,7 +15,7 @@ Slash commands require a special Oauth2 scope, click the link below to get them.
 {% embed url="https://bot.jacob5257.com/slash-commands" %}
 
 {% hint style="warning" %}
-Slash commands require the bot to have the administrator permission. This will be changed by [Rollout 2](slash-commands-faq.md#wait-why-are-there-fewer-slash-commands-than-message-ones).
+Slash commands require the bot to have the administrator permission. This will be changed by [Rollout 3](slash-commands-faq.md#wait-why-are-there-fewer-slash-commands-than-message-ones).
 {% endhint %}
 
 ### Wait, why are there fewer slash commands than message ones?
@@ -23,16 +23,14 @@ Slash commands require the bot to have the administrator permission. This will b
 The rollout of slash commands is staggered, and we will not transfer all of the message commands. Here is the latest rollout plan:
 
 * [x] ~~Rollout 1: Slash commands are here! (Released 11/1/2021)~~
-* [ ] Rollout 2: There's more! (To be released 11/14/2021)
+* [x] ~~Rollout 2: There's more! (To be released 11/14/2021)~~
 * [ ] Rollout 3: Almost done! (To be released 11/25-30/2021)
 * [ ] Rollout 4: Happy holidays: slash commands complete! (To be released 12/25/2021)
 
 ### When are message commands being removed?
 
-Based on a vote conducted on 11/6/2021, message commands will be removed with Rollout 2.
+Based on a vote conducted on 11/6/2021, message commands have been removed.
 
 ### What about things based on messages?
 
-As of right now, we will be sustaining both leveling and welcome/goodbye messages to be supported for as long as possible. Based on the information that we know right now, both systems should be able to run without the need of the intent as they do not need to access the actual content of the message. Updates will be posted in our server as they come.
-
-###
+As of right now, we will no longer be sustaining leveling, however welcome/goodbye messages will be supported.
