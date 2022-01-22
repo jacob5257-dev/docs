@@ -21,7 +21,7 @@ The rollout of slash commands is staggered, and we will not transfer all of the 
 * [x] ~~Rollout 1: Slash commands are here! (Released 11/1/2021)~~
 * [x] ~~Rollout 2: There's more! (To be released 11/14/2021)~~
 * [x] ~~Rollout 3: Almost done! (To be released 11/27/2021)~~
-* [ ] Rollout 4: Happy holidays: slash commands complete! (To be released 12/25/2021)
+* [x] ~~Rollout 4: Happy holidays: slash commands complete! (To be released 12/25/2021)~~
 
 ### When are message commands being removed?
 
